@@ -55,4 +55,4 @@ In parallel, I founded **[Saelyx](https://saelyx.ai)** &mdash; a voice assistant
 
 ---
 
-<sub>Most of my recent work lives in private repositories. The public ones here are older demos kept for reference. For up-to-date work, visit [adiannyramirez.com](https://adiannyramirez.com) or [enekui.io](https://enekui.io).</sub>
+<sub>Most of my recent work lives in private repositories. The public ones here are older demos kept for reference. For up-to-date work, visit [adiannyramirez.com](https://adiannyramirez.com) or [saelyx.ai](https://saelyx.ai).</sub>
