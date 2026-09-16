@@ -2,7 +2,7 @@
 
 # Adianny Ramírez
 
-**Tech Lead @ [ProcessControl](https://www.linkedin.com/in/adiannyramirez/) · Co-founder @ [enekui](https://enekui.io)**
+**Tech Lead @ [ProcessControl](https://www.linkedin.com/in/adiannyramirez/)**
 
 Madrid · Remote EU · AWS Cloud Architect · 11+ years · 15 industry certifications
 
@@ -15,8 +15,6 @@ Madrid · Remote EU · AWS Cloud Architect · 11+ years · 15 industry certifica
 I architect cloud and AI infrastructure for European businesses, with a focus on the intersection of DevOps and machine learning.
 
 Currently leading DevOps and MLOps at **[ProcessControl](https://www.linkedin.com/in/adiannyramirez/)** &mdash; AI agent platforms on AWS Bedrock, RAG pipelines with Knowledge Bases, and end-to-end ML infrastructure with SageMaker, MLflow and vector databases.
-
-In parallel, co-founder of **[enekui](https://enekui.io)** &mdash; an Atlantic-coast boutique partner for European SMBs that need real cloud, AI and security work without hiring a full in-house team. Trademark **OEPM M4377147**.
 
 ## What I do
 
