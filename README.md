@@ -2,11 +2,11 @@
 
 # Adianny Ramírez
 
-**Tech Lead @ [ProcessControl](https://www.linkedin.com/in/adiannyramirez/)**
+**Tech Lead @ [ProcessControl](https://www.linkedin.com/in/adiannyramirez/) · Founder of [Saelyx](https://saelyx.ai)**
 
 Madrid · Remote EU · AWS Cloud Architect · 11+ years · 15 industry certifications
 
-[**adiannyramirez.com**](https://adiannyramirez.com) · [**enekui.io**](https://enekui.io) · [mail@adiannyramirez.com](mailto:mail@adiannyramirez.com)
+[**adiannyramirez.com**](https://adiannyramirez.com) · [**saelyx.ai**](https://saelyx.ai) · [**LinkedIn**](https://www.linkedin.com/in/adiannyramirez/) · [mail@adiannyramirez.com](mailto:mail@adiannyramirez.com)
 
 </div>
 
@@ -15,6 +15,8 @@ Madrid · Remote EU · AWS Cloud Architect · 11+ years · 15 industry certifica
 I architect cloud and AI infrastructure for European businesses, with a focus on the intersection of DevOps and machine learning.
 
 Currently leading DevOps and MLOps at **[ProcessControl](https://www.linkedin.com/in/adiannyramirez/)** &mdash; AI agent platforms on AWS Bedrock, RAG pipelines with Knowledge Bases, and end-to-end ML infrastructure with SageMaker, MLflow and vector databases.
+
+In parallel, I founded **[Saelyx](https://saelyx.ai)** &mdash; a voice assistant for iPhone, Mac and Apple Watch that sees what is on your screen, listens and answers in about a second, and remembers what you told it in earlier conversations. Published on the App Store and sold across the EU; I own the technical decisions and the architecture: the voice pipeline, the memory layer and what the three devices share.
 
 ## What I do
 
@@ -47,7 +49,7 @@ Currently leading DevOps and MLOps at **[ProcessControl](https://www.linkedin.co
 ## Contact
 
 - General &middot; [mail@adiannyramirez.com](mailto:mail@adiannyramirez.com)
-- Enekui (sales) &middot; [hola@enekui.io](mailto:hola@enekui.io)
+- Saelyx &middot; [saelyx.ai](https://saelyx.ai)
 - LinkedIn &middot; [@adiannyramirez](https://www.linkedin.com/in/adiannyramirez/)
 - Site &middot; [adiannyramirez.com](https://adiannyramirez.com)
 
