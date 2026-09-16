@@ -4,7 +4,7 @@
 
 **Tech Lead @ [ProcessControl](https://www.linkedin.com/in/adiannyramirez/) · Co-founder @ [enekui](https://enekui.io)**
 
-A Coruña · Remote EU · AWS Cloud Architect · 11+ years · 15 industry certifications
+Madrid · Remote EU · AWS Cloud Architect · 11+ years · 15 industry certifications
 
 [**adiannyramirez.com**](https://adiannyramirez.com) · [**enekui.io**](https://enekui.io) · [mail@adiannyramirez.com](mailto:mail@adiannyramirez.com)
 
